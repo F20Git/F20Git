@@ -2,7 +2,7 @@
 <p align="center">
     <img style="border-radius: 100px" width="128" height="128" src="https://cdn.discordapp.com/avatars/737550873227427890/079bfe3b5acbff3aecc51a28a0cbf3e5.png?size=4096">
 </p>
-<h1 align="center">F20</h1>
+<h1 align="center">F20Git</h1>
 
 
 ### Languages, Tools and Frameworks:
